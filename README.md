@@ -87,45 +87,35 @@ google-flights-data-pipeline-adf/
 
 ## 📸 Project Screenshots
 
-### Azure Data Factory Pipeline
+### Screenshot 1
+![Screenshot1](Screenshots/Screenshot%202026-07-14%20024900.png)
 
-![Pipeline](Screenshots/01_Pipeline.png)
+### Screenshot 2
+![Screenshot2](Screenshots/Screenshot%202026-07-14%20024936.png)
 
----
+### Screenshot 3
+![Screenshot3](Screenshots/Screenshot%202026-07-14%20025002.png)
 
-### Mapping Data Flow
+### Screenshot 4
+![Screenshot4](Screenshots/Screenshot%202026-07-14%20025038.png)
 
-![Data Flow](Screenshots/02_DataFlow.png)
+### Screenshot 5
+![Screenshot5](Screenshots/Screenshot%202026-07-14%20025231.png)
 
----
+### Screenshot 6
+![Screenshot6](Screenshots/Screenshot%202026-07-14%20025249.png)
 
-### Linked Services
+### Screenshot 7
+![Screenshot7](Screenshots/Screenshot%202026-07-14%20025307.png)
 
-![Linked Services](Screenshots/03_LinkedServices.png)
+### Screenshot 8
+![Screenshot8](Screenshots/Screenshot%202026-07-14%20025327.png)
 
----
+### Screenshot 9
+![Screenshot9](Screenshots/Screenshot%202026-07-14%20025400.png)
 
-### Datasets
-
-![Datasets](Screenshots/04_Datasets.png)
-
----
-
-### Successful Pipeline Run
-
-![Pipeline Success](Screenshots/05_Monitor_Success.png)
-
----
-
-### Error Handling Test
-
-![Pipeline Failure](Screenshots/06_Monitor_Failure.png)
-
----
-
-### Azure SQL Results
-
-![SQL Results](Screenshots/07_SQL_Results.png)
+### Screenshot 10
+![Screenshot10](Screenshots/Screenshot%202026-07-14%20025628.png)
 
 ## 📊 Sample SQL Queries
 
